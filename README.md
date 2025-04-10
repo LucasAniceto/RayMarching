@@ -5,7 +5,8 @@ A solar system animation built with JavaScript, WebGL, and ray marching. This pr
 🚀 Overview
 
 
-![image](https://github.com/user-attachments/assets/ad6b32d9-6926-407c-a78f-cf40ae8ed596)
+
+![2025-03-2618-39-54-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/49ed66da-3987-43ac-80c6-47e0be545d51)
 
 
 This project explores the power of WebGL and ray marching, creating a stylized solar system rendered entirely in the fragment shader. It demonstrates how ray marching can produce smooth, interactive 3D visuals directly in the browser—without traditional 3D models or geometry.
