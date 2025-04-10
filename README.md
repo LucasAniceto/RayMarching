@@ -26,11 +26,11 @@ The scene is rendered using ray marching, a technique that casts rays into a vir
 
 📂 Project Structure
 
-/solar-system-raymarching
-│
-├── index.html          # Main HTML file
-├── style.css           # Basic styling for the page
-├── main.js             # WebGL setup and animation loop | GLSL fragment shader (ray marching logic)
+    /solar-system-raymarching
+    │
+    ├── index.html          # Main HTML file
+    ├── style.css           # Basic styling for the page
+    ├── main.js             # WebGL setup and animation loop | GLSL fragment shader (ray marching logic)
 
 
 🛠️ Getting Started
