@@ -41,4 +41,9 @@ The scene is rendered using ray marching, a technique that casts rays into a vir
 
 This project is inspired by the TV show The Big Bang Theory and was made for the Computer Graphics course at college.
 
+📜 License
+
+MIT License. Feel free to fork, remix, and learn from it.
+
+
 
